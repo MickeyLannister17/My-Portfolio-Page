@@ -1,12 +1,11 @@
 import BankPage from "../assets/bankpage.jpg";
-import BankPagePc from "../assets/bankpagepc.jpg";
-import CinematicPc from "../assets/cinematic.jpg";
+
 import CinematicMob from "../assets/cinematicmob.jpg";
-import InventoryPc from "../assets/inventorypc.jpg";
+
 import InventoryMob from "../assets/inventorymob.jpg";
-import MyManagePc from "../assets/mymanage.jpg";
+
 import MyManageMob from "../assets/mymanagepc.jpg";
-import NubiaFoodPc from "../assets/nubiafoodpc.jpg";
+
 import NubiaFoodMob from "../assets/nubiafood.jpg";
 
 const Portfolio = () => {
@@ -43,17 +42,6 @@ const Portfolio = () => {
       code_link: "https://github.com/MickeyLannister17/Nubia-Food",
     },
   ];
-  //   const [selectedIndex, setSelectedIndex] = useState("");
-
-  //   const openDemo = ({ id, demo_link }) => {
-  //     window.open(id.demo_link, "_blank");
-  //     setSelectedIndex(id);
-  //   };
-  // const openCode = ({ id, code_link }) => {
-  //     window.open(portfolioPics[id], "_blank");
-  //     setSelectedIndex(id)
-  // };
-
   return (
     <div
       name="portfolio"
