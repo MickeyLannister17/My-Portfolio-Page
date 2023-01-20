@@ -21,10 +21,10 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-          Though, barely 1 year into Tech as a Backend Web Engineer, I have been
-          able to surmount some of my expectations and limits, as demonstrated
-          recently by my inclusion into the list of 250 finalists, out of over
-          14 thousand Software developers, Mobile Application Developers, UI/UX
+          Though, barely 2 years into Tech/web development, I have been able to
+          surmount some of my expectations and limits, as demonstrated recently
+          by my inclusion into the list of 250 finalists, out of over 14
+          thousand Software developers, Mobile Application Developers, UI/UX
           Designers, DevOps, Frontend Developers and, Backend Web Engineers
           across the globe, at the HNGi8 Internship.
         </p>

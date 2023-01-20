@@ -37,6 +37,15 @@ const Home = () => {
               </span>
             </Link>
           </div>
+          <div>
+            <a
+              href=""
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md
+            bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+            >
+              Resume
+            </a>
+          </div>
         </div>
         <div>
           <img
